@@ -1,0 +1,5 @@
+transformers==4.28.1
+ml_collections
+fschat==0.2.20
+livelossplot==0.5.5
+ipython==8.16.1
